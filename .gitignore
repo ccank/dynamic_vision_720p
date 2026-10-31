@@ -1,0 +1,36 @@
+# ---- Vivado generated project and run products (rebuilt from rebuild_project.tcl) ----
+build/vivado_project/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+*.Xil/
+.Xil/
+
+# ---- Vivado temporary / report / log files ----
+*.jou
+*.log
+*.bak
+*.str
+*.pb
+*.wdb
+*.wpc
+*.zip
+NAVJOURNAL_REPORT_*
+webtalk*
+vivado_pid*
+usage_statistics*
+
+# ---- IP lock and generated output products ----
+*.lock
+
+# ---- OS / editor noise ----
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
